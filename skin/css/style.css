@@ -275,6 +275,7 @@ h3.w3l-heading {
 	margin: 0 auto;
 	letter-spacing: 1px;
 	line-height: 1.8em;
+	text-indent: 2em;
 }
 .w3ls-about-grids {
 	margin: 4em 0 0 0;
@@ -287,9 +288,9 @@ h3.w3l-heading {
 }
 .w3l-about {
 	width: 55%;
-	top: 29%;
+	top: 13.4%;
 	right: 14%;
-	padding: 4em;
+	padding: 2em 4em;
 	background: white;
 	border: 1px solid #ece4e4;
 	position: absolute;
@@ -855,21 +856,21 @@ ul.address li ul.agileits-address-text li a:hover {
 @media screen and (max-width: 1920px) {
 .w3l-about {
 	width: 46%;
-	top: 29%;
+	top: 13.4%;
 	right: 20%;
 }
 }
  @media screen and (max-width: 1680px) {
 .w3l-about {
 	width: 52%;
-	top: 29%;
+	top: 13.4%;
 	right: 16%;
 }
 }
 @media screen and (max-width: 1600px) {
 .w3l-about {
 	width: 54%;
-	top: 29%;
+	top: 13.4%;
 	right: 14%;
 }
 }
